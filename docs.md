@@ -4,4 +4,4 @@ toothbrush.
 Note that this toothbrush is not safe to use for children,
 adults, or pets.
 
-This is a new line in thjis file.
+This is a new line in this file.

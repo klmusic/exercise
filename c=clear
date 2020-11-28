@@ -1,0 +1,29 @@
+[33mcommit df574441b841280d4c0ae51cc335b29a41863c76[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Knut Lamvik <knulam@vgs.nfk.no>
+Date:   Mon Nov 23 19:08:06 2020 +0100
+
+    Deleted temporary file
+
+[33mcommit 233bc8285aa7463f97825993dd3aff394c53ad09[m
+Author: Knut Lamvik <knulam@vgs.nfk.no>
+Date:   Mon Nov 23 19:04:38 2020 +0100
+
+    Renamed temporary file
+
+[33mcommit a5f080a7cda65bef3b979e6f4a42cc287d255992[m[33m ([m[1;33mtag: my_tag[m[33m)[m
+Author: Knut Lamvik <knulam@vgs.nfk.no>
+Date:   Mon Nov 23 19:01:42 2020 +0100
+
+    Added temporary file
+
+[33mcommit 9a0cce81794428c3aef39ba70b5bdfc90ed613a9[m
+Author: Knut Lamvik <knulam@vgs.nfk.no>
+Date:   Mon Nov 23 00:21:38 2020 +0100
+
+    Added docs.md
+
+[33mcommit a2c277c946c92798949f0a35433d13eefc3e77e6[m
+Author: klmusic <51617049+klmusic@users.noreply.github.com>
+Date:   Sun Nov 22 22:21:11 2020 +0100
+
+    Initial commit
