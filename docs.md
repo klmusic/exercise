@@ -4,6 +4,4 @@ toothbrush.
 Note that this toothbrush is not safe to use for children,
 adults, or pets.
 
-This is a new line in this file.
-
-And yet another one.
+Open your mouth and insert end of toothbrush.
